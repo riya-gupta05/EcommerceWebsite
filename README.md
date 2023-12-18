@@ -16,7 +16,7 @@ Getting Started
 
 Clone the Repository:
 
-Clone the project to your local machine using the command git clone https://github.com/riya-gupta05/EcommerceWebsite
+Clone the project to your local machine using the command git clone https://github.com/riya-gupta05/EcommerceWebsite.git
 Explore the Website:
 
 Open the index.html file in your web browser to explore the e-commerce website.
